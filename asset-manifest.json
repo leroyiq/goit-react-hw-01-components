@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/leroyiq/goit-react-hw-01-components.git/static/css/main.7acaea2f.css",
-    "main.js": "/leroyiq/goit-react-hw-01-components.git/static/js/main.07d3183d.js",
+    "main.css": "/leroyiq/goit-react-hw-01-components.git/static/css/main.756641a0.css",
+    "main.js": "/leroyiq/goit-react-hw-01-components.git/static/js/main.844f7b0f.js",
     "index.html": "/leroyiq/goit-react-hw-01-components.git/index.html",
-    "main.7acaea2f.css.map": "/leroyiq/goit-react-hw-01-components.git/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/leroyiq/goit-react-hw-01-components.git/static/js/main.07d3183d.js.map"
+    "main.756641a0.css.map": "/leroyiq/goit-react-hw-01-components.git/static/css/main.756641a0.css.map",
+    "main.844f7b0f.js.map": "/leroyiq/goit-react-hw-01-components.git/static/js/main.844f7b0f.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.756641a0.css",
+    "static/js/main.844f7b0f.js"
   ]
 }
