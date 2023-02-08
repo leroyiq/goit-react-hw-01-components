@@ -13,14 +13,15 @@ import { TransactionHistory } from 'components/transactions/Transactions';
 import transactions from 'data/transactions.json';
 
 export function App() {
+  const { username, tag, location, avatar, stats } = user;
   return (
     <div className={css.app}>
       <UserProfile
-        username={user.username}
-        tag={user.tag}
-        location={user.location}
-        avatar={user.avatar}
-        stats={user.stats}
+        username={username}
+        tag={tag}
+        location={location}
+        avatar={avatar}
+        stats={stats}
       />
       <Statistics title="Upload stats" stats={data} />
       <FriendList friends={friends} />
